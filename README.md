@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aydan Ibrahimlova
+# Hi 👋 I'm Aydan Ibrahimova
 
 💻 Data Science enthusiast interested in Machine Learning and Data Analytics.  
 I enjoy building projects with Python and exploring data to find meaningful insights.  
